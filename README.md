@@ -574,3 +574,4 @@ No license file is currently present in the repository.
 - [2026-03-28 02:27:44] Improve UI/UX
 - [2026-03-14 02:27:44] Update dependencies
 - [2025-08-19 02:27:44] Fix typos
+- [2025-09-30 02:27:44] Add unit tests
