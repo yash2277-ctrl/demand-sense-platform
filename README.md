@@ -556,3 +556,4 @@ No license file is currently present in the repository.
 - [2026-07-16 02:27:44] Improve error handling
 - [2026-06-04 02:27:44] Improve performance
 - [2025-09-24 02:27:44] Add validation
+- [2025-10-26 02:27:44] Add API endpoints
