@@ -431,3 +431,4 @@ No license file is currently present in the repository.
 - [2026-03-25 02:27:44] Improve logging
 - [2026-07-12 02:27:44] Add unit tests
 - [2025-12-05 02:27:44] Enhance security
+- [2025-11-06 02:27:44] Add API endpoints
