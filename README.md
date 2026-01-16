@@ -526,3 +526,4 @@ No license file is currently present in the repository.
 - [2025-12-03 02:27:44] Optimize queries
 - [2026-02-21 02:27:44] Optimize queries
 - [2026-04-18 02:27:44] Update documentation
+- [2026-01-17 02:27:44] Add API endpoints
