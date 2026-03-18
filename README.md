@@ -447,3 +447,4 @@ No license file is currently present in the repository.
 - [2026-05-22 02:27:44] Improve error handling
 - [2026-06-10 02:27:44] Improve error handling
 - [2026-03-20 02:27:44] Optimize queries
+- [2026-03-19 02:27:44] Add unit tests
