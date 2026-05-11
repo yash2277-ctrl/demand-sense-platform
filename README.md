@@ -452,3 +452,4 @@ No license file is currently present in the repository.
 - [2025-12-14 02:27:44] Improve accessibility
 - [2026-02-22 02:27:44] Improve logging
 - [2025-10-27 02:27:44] Add new features
+- [2026-05-12 02:27:44] Update documentation
