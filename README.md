@@ -394,3 +394,5 @@ No license file is currently present in the repository.
 - **2026-08-05**: feat: Add logging improvements
 
 - **2026-05-14**: Update README
+
+- **2026-05-16**: Update dependencies
