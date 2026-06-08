@@ -509,3 +509,4 @@ No license file is currently present in the repository.
 - [2026-02-15 02:27:44] Add API endpoints
 - [2025-12-05 02:27:44] Fix typos
 - [2026-02-17 02:27:44] Add new features
+- [2026-06-09 02:27:44] Improve logging
