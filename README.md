@@ -400,3 +400,5 @@ No license file is currently present in the repository.
 - **2026-05-16**: Update dependencies
 
 - **2026-06-01**: Improve UI/UX
+
+- **2026-06-11**: Improve performance
