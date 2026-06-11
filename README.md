@@ -402,3 +402,5 @@ No license file is currently present in the repository.
 - **2026-06-01**: Improve UI/UX
 
 - **2026-06-11**: Improve performance
+
+- **2026-06-12**: Refactor code
