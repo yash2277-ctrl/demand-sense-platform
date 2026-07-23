@@ -414,3 +414,5 @@ No license file is currently present in the repository.
 - **2026-07-11**: Update dependencies
 
 - **2026-07-13**: Update documentation
+
+- **2026-07-24**: Improve UI/UX
