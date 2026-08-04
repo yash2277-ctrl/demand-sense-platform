@@ -373,3 +373,8 @@ These do not block app startup, but they can affect dashboard live-data behavior
 ## License
 
 No license file is currently present in the repository.
+
+
+## Recent Updates
+
+- **2026-08-05**: docs: Add usage examples
