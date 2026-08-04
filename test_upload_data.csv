@@ -1,0 +1,11 @@
+date,product,region,demand
+2024-01-01,Electronics,North America,1200
+2024-01-02,Electronics,North America,1250
+2024-01-03,Electronics,North America,1280
+2024-01-04,Electronics,North America,1310
+2024-01-05,Electronics,North America,1335
+2024-01-01,Clothing,Europe,800
+2024-01-02,Clothing,Europe,820
+2024-01-03,Clothing,Europe,850
+2024-01-04,Clothing,Europe,865
+2024-01-05,Clothing,Europe,890
