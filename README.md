@@ -382,3 +382,5 @@ No license file is currently present in the repository.
 - **2026-08-05**: docs: Add usage examples
 
 - **2026-08-05**: docs: Add usage examples
+
+- **2026-08-05**: feat: Add logging improvements
